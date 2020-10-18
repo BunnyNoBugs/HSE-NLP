@@ -1,112 +1,112 @@
-	token
-0	Вчера
-1	был
-2	очень
-3	необычный
-4	день
-5	Сначала
-6	я
-7	услышал
-8	странный
-9	разговор
-10	Один
-11	говорил
-12	другому
-13	Это
-14	невозможно
-15	Эти
-16	типы
-17	стали
-18	есть
-19	на
-20	складе
-21	Мало
-22	того
-23	что
-24	после
-25	них
-26	образовалась
-27	течь
-28	так
-29	мне
-30	потом
-31	пришлось
-32	и
-33	печь
-34	чистить
-35	Этот
-36	разговор
-37	я
-38	слышал
-39	пока
-40	шел
-41	дорогой
-42	домой
-43	видимо
-44	они
-45	работают
-46	на
-47	заводе
-48	у
-49	одного
-50	из
-51	них
-52	была
-53	в
-54	руках
-55	пила
-56	Потом
-57	когда
-58	я
-59	проходил
-60	мимо
-61	парка
-62	я
-63	увидел
-64	что
-65	от
-66	него
-67	остались
-68	только
-69	пни
-70	а
-71	вокруг
-72	них
-73	жгут
-74	траву
-75	Видимо
-76	это
-77	они
-78	спугнули
-79	целый
-80	рой
-81	пчел
-82	и
-83	он
-84	полетел
-85	за
-86	мной
-87	Было
-88	страшно
-89	как
-90	будто
-91	бы
-92	к
-93	виску
-94	приставили
-95	дуло
-96	пистолета
-97	В
-98	общем
-99	день
-100	был
-101	такой
-102	неординарный
-103	что
-104	я
-105	даже
-106	решил
-107	стих
-108	о
-109	нем
-110	сочинить
+	token	golden_pos	pymorphy_pred	mystem_pred
+0	Вчера		ADVB	ADV
+1	был		VERB	V
+2	очень		ADVB	ADV
+3	необычный		ADJF	A
+4	день		NOUN	S
+5	Сначала		ADVB	ADV
+6	я		NPRO	SPRO
+7	услышал		VERB	V
+8	странный		ADJF	A
+9	разговор		NOUN	S
+10	Один		ADJF	APRO
+11	говорил		VERB	V
+12	другому		ADJF	APRO
+13	Это		PRCL	SPRO
+14	невозможно		ADVB	A
+15	Эти		ADJF	APRO
+16	типы		NOUN	S
+17	стали		VERB	V
+18	есть		INTJ	V
+19	на		PREP	PR
+20	складе		NOUN	S
+21	Мало		ADVB	ADV
+22	того		ADJF	SPRO
+23	что		CONJ	CONJ
+24	после		PREP	PR
+25	них		NPRO	SPRO
+26	образовалась		VERB	V
+27	течь		NOUN	V
+28	так		CONJ	ADVPRO
+29	мне		NPRO	SPRO
+30	потом		ADVB	ADVPRO
+31	пришлось		VERB	V
+32	и		CONJ	CONJ
+33	печь		INFN	S
+34	чистить		INFN	V
+35	Этот		ADJF	APRO
+36	разговор		NOUN	S
+37	я		NPRO	SPRO
+38	слышал		VERB	V
+39	пока		ADVB	CONJ
+40	шел		VERB	V
+41	дорогой		ADVB	A
+42	домой		ADVB	ADV
+43	видимо		ADVB	ADV
+44	они		NPRO	SPRO
+45	работают		VERB	V
+46	на		PREP	PR
+47	заводе		NOUN	S
+48	у		PREP	PR
+49	одного		ADJF	APRO
+50	из		PREP	PR
+51	них		NPRO	SPRO
+52	была		VERB	V
+53	в		PREP	PR
+54	руках		NOUN	S
+55	пила		NOUN	V
+56	Потом		ADVB	ADVPRO
+57	когда		CONJ	CONJ
+58	я		NPRO	SPRO
+59	проходил		VERB	V
+60	мимо		ADVB	PR
+61	парка		NOUN	S
+62	я		NPRO	SPRO
+63	увидел		VERB	V
+64	что		CONJ	CONJ
+65	от		PREP	PR
+66	него		NPRO	SPRO
+67	остались		VERB	V
+68	только		PRCL	PART
+69	пни		VERB	S
+70	а		CONJ	CONJ
+71	вокруг		ADVB	PR
+72	них		NPRO	SPRO
+73	жгут		VERB	V
+74	траву		NOUN	S
+75	Видимо		ADVB	ADV
+76	это		PRCL	SPRO
+77	они		NPRO	SPRO
+78	спугнули		VERB	V
+79	целый		ADJF	A
+80	рой		NOUN	S
+81	пчел		NOUN	S
+82	и		CONJ	CONJ
+83	он		NPRO	SPRO
+84	полетел		VERB	V
+85	за		PREP	PR
+86	мной		NPRO	SPRO
+87	Было		VERB	V
+88	страшно		ADVB	ADV
+89	как		CONJ	ADVPRO
+90	будто		CONJ	PART
+91	бы		PRCL	PART
+92	к		PREP	PR
+93	виску		NOUN	S
+94	приставили		VERB	V
+95	дуло		VERB	S
+96	пистолета		NOUN	S
+97	В		PREP	PR
+98	общем		ADJF	A
+99	день		NOUN	S
+100	был		VERB	V
+101	такой		ADJF	APRO
+102	неординарный		ADJF	A
+103	что		CONJ	CONJ
+104	я		NPRO	SPRO
+105	даже		PRCL	PART
+106	решил		VERB	V
+107	стих		VERB	S
+108	о		PREP	PR
+109	нем		ADJS	SPRO
+110	сочинить		INFN	V
